@@ -4,10 +4,13 @@ module.exports = {
     extend: {
       colors: {
         brand: {
-          300: '#54d959',
-          500: '#37bf3b',
+          300: '#03c103',
+          500: '#0aa80c',
         }
-      }
+      },
+      borderRadius: {
+        md: '4px'
+      },
     },
   },
   plugins: [

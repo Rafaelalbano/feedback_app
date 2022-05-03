@@ -17,7 +17,7 @@ export const feedbackTypes = {
         },
     },
     IDEA: {
-        title: 'Ideia',
+        title: 'Sugestões',
         image: {
             source: ideaImageUrl,
             alt: 'Imagem de uma lâmpada'
